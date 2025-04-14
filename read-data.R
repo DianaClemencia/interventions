@@ -9,4 +9,5 @@ mers_dat <- readr::read_rds(
 )
 mers_dat
 
+# Imprimir resumen de datos
 summary(mers_dat)
